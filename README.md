@@ -11,7 +11,8 @@ This repository contains the code and data for an internship project conducted a
 ├── code/                   # All source code
 │   ├── training/             # Scripts for model training and evaluation
 │   └── deployment/           # Scripts for Raspberry Pi deployment
-├── requirements.txt       # Python dependencies
+├── requirements.txt       # Python dependencies inside envirnoment
+├── global-requirements.txt       # Python dependencies outside envirnoment (in global systen)
 └── README.md              # This file
 
 ```
